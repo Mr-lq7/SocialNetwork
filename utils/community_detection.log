@@ -1,0 +1,33 @@
+INFO:root:the modularity score of greedy modularity: 0.45351239669421484
+INFO:root:the modularity score of girvan newman in cluster ({0, 1, 2, 3, 4}, {5, 6, 7, 8, 9, 10}): 0.45351239669421484
+INFO:root:the modularity score of girvan newman in cluster ({0, 1, 2, 3, 4}, {6, 7, 8, 9, 10}, {5}): 0.4514462809917355
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1, 2, 3, 4}, {6, 7, 8, 9, 10}, {5}): 0.3398760330578512
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2, 3, 4}, {6, 7, 8, 9, 10}, {5}): 0.25723140495867763
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3, 4}, {6, 7, 8, 9, 10}, {5}): 0.20351239669421486
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6, 7, 8, 9, 10}, {5}): 0.1787190082644628
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {8, 9, 10, 7}, {5}): 0.07954545454545453
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {7}, {8, 9, 10}, {5}): -0.0072314049586776966
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {7}, {8}, {9, 10}, {5}): -0.06508264462809918
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {7}, {8}, {9}, {10}, {5}): -0.09400826446280991
+INFO:root:the modularity score of greedy modularity: 0.45351239669421484
+INFO:root:the modularity score of girvan newman in cluster ({0, 1, 2, 3, 4}, {5, 6, 7, 8, 9, 10}): 0.45351239669421484
+INFO:root:the modularity score of girvan newman in cluster ({0, 1, 2, 3, 4}, {6, 7, 8, 9, 10}, {5}): 0.4514462809917355
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1, 2, 3, 4}, {6, 7, 8, 9, 10}, {5}): 0.3398760330578512
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2, 3, 4}, {6, 7, 8, 9, 10}, {5}): 0.25723140495867763
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3, 4}, {6, 7, 8, 9, 10}, {5}): 0.20351239669421486
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6, 7, 8, 9, 10}, {5}): 0.1787190082644628
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {8, 9, 10, 7}, {5}): 0.07954545454545453
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {7}, {8, 9, 10}, {5}): -0.0072314049586776966
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {7}, {8}, {9, 10}, {5}): -0.06508264462809918
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {7}, {8}, {9}, {10}, {5}): -0.09400826446280991
+INFO:root:the modularity score of greedy modularity: 0.45351239669421484
+INFO:root:the modularity score of girvan newman in cluster ({0, 1, 2, 3, 4}, {5, 6, 7, 8, 9, 10}): 0.45351239669421484
+INFO:root:the modularity score of girvan newman in cluster ({0, 1, 2, 3, 4}, {6, 7, 8, 9, 10}, {5}): 0.4514462809917355
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1, 2, 3, 4}, {6, 7, 8, 9, 10}, {5}): 0.3398760330578512
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2, 3, 4}, {6, 7, 8, 9, 10}, {5}): 0.25723140495867763
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3, 4}, {6, 7, 8, 9, 10}, {5}): 0.20351239669421486
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6, 7, 8, 9, 10}, {5}): 0.1787190082644628
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {8, 9, 10, 7}, {5}): 0.07954545454545453
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {7}, {8, 9, 10}, {5}): -0.0072314049586776966
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {7}, {8}, {9, 10}, {5}): -0.06508264462809918
+INFO:root:the modularity score of girvan newman in cluster ({0}, {1}, {2}, {3}, {4}, {6}, {7}, {8}, {9}, {10}, {5}): -0.09400826446280991
